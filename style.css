@@ -1,0 +1,35 @@
+.container {
+	margin: 0 auto;
+	max-width: 1570px;
+	padding: 0 15px;
+}
+
+.cashback__inner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.cashback__card-image{
+	margin: 0 auto;
+	width: 100px;
+}
+table {
+	border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+	border: 1px solid gray;
+}
+th {
+	font-size: 24px;
+}
+td {
+	padding: 5px;
+}
+img{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
