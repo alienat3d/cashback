@@ -1,0 +1,55 @@
+// @import '../../node_modules/nice-select2/src/scss/nice-select2.scss';
+// @use 'sass:math';
+
+body {background-color: #333;}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1570px;
+  padding: 0 15px;
+
+  @media (min-width: 768px) {
+    padding: 0 10px;
+  }
+}
+.cashback__inner {
+	display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+	@media (min-width: 576px) {
+	}
+}
+.cashback__choice-inner {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}
+
+.cashback__card-image {
+  margin: 0 10px;
+  width: 100px;
+}
+/*
+@media (min-width: 576px) {
+	
+}
+? Tablets
+@media (min-width: 768px) {
+	
+}
+@media (min-width: 992px) {
+	
+}
+? Desktops:
+@media (min-width: 1200px) {
+	
+}
+@media (min-width: 1400px) {
+	
+} */

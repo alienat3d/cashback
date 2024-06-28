@@ -1,0 +1,34 @@
+{
+  "name": "cashback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development",
+    "start": "webpack serve --mode=development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienat3d/cashback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alienat3d/cashback/issues"
+  },
+  "homepage": "https://github.com/alienat3d/cashback#readme",
+  "devDependencies": {
+    "sass": "^1.77.6",
+    "sass-loader": "^14.2.1",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "nice-select2": "^2.2.0",
+    "style-loader": "^4.0.0"
+  }
+}
