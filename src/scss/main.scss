@@ -31,10 +31,21 @@ img {
 	justify-content: center;
 }
 
+.cashback__cards {
+	margin: 0 10px;
+}
+
 .cashback__card-image {
-  margin: 0 10px;
+	border-radius: 7%;
+  margin: 0 10px 15px;
   width: 100px;
 }
+
+.cashback__categories {
+	padding-left: 10px;
+	color: #fff;
+}
+
 /*
 @media (min-width: 576px) {
 	
