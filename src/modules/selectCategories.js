@@ -1,5 +1,3 @@
-// import NiceSelect from "nice-select2";
-
 export const selectCategoriesFunc = () => {
 	let selects = document.querySelectorAll('select');
 	const cards = document.querySelectorAll('.cashback__card');

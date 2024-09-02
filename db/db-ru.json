@@ -1,0 +1,79 @@
+{
+	"banks": [
+		{
+			"id": 0,
+			"name": "Alfa-bank"
+		},
+		{
+			"id": 1,
+			"name": "Tinkoff"
+		},
+		{
+			"id": 2,
+			"name": "Yandex"
+		}
+	],
+	"categories": [
+		{
+			"id": 0,
+			"name": "Beeline payments"
+		},
+		{
+			"id": 1,
+			"name": "Cafes, bars & restaurant"
+		},
+		{
+			"id": 2,
+			"name": "Car service & goods"
+		},
+		{
+			"id": 3,
+			"name": "City transport"
+		},
+		{
+			"id": 4,
+			"name": "Clothes & Shoes"
+		},
+		{
+			"id": 4,
+			"name": "Culture & Art"
+		},
+		{
+			"id": 4,
+			"name": "Education",
+			"description": "Оплата в школах, вузах и училищах, а также оплата за профильное обучение: бизнесу, искусствам, спорту, вождению."
+		},
+		{
+			"id": 5,
+			"name": "Entertainment",
+			"description": "Payments at bowling alleys, amusement parks, circuses and other leisure facilities"
+		},
+		{
+			"id": 6,
+			"name": "Flowers"
+		},
+		{
+			"id": 7,
+			"name": "Health"
+		},
+		{
+			"id": 8,
+			"name": "Home repair & decor"
+		},
+		{
+			"id": 9,
+			"name": "Sports goods",
+			"description": "Payment in specialized sports stores"
+		},
+		{
+			"id": 10,
+			"name": "Supermarkets"
+		},
+		{
+			"id": 11,
+			"name": "Taxi",
+			"description": "Payment to drivers and online taxi services. This doesn't include carsharing."
+		}
+	],
+	"grocery-categories": ["Пирожки, выпечка и бисквиты", "Энергетические напитки", "Фруктовый микс", "Вода", "Мороженое и замороженные десерты", "Варенье, джем и мёд", "Сухие завтраки и каши", "Детские напитки", "Детские молочные продукты", "Детские пюре и печенье", "Замороженная пицца и полуфабрикаты", "Квас", "Жевательная резинка", "Готовая кулинария и гриль", "Кухонная посуда", "Замороженные фрукты и овощи", "Крупы и бобы", "Крабовое мясо и палочки", "Сырки глазированные", "Сладкие газированные напитки «Черноголовка»"]
+}

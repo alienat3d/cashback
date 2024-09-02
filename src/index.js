@@ -1,5 +1,4 @@
 // import NiceSelect from "nice-select2";
-// import NiceSelect from 'nice-select2';
 // import '../node_modules/nice-select2/src/scss/nice-select2.scss';
 
 // import "nice-select2/src/scss/nice-select2.scss";

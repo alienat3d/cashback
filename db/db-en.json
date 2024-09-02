@@ -1,0 +1,84 @@
+{
+	"banks": [
+		{
+			"id": 0,
+			"name": "Alfa-bank"
+		},
+		{
+			"id": 1,
+			"name": "Tinkoff"
+		},
+		{
+			"id": 2,
+			"name": "Yandex"
+		}
+	],
+	"categories": [
+		{
+			"id": 0,
+			"name": "Beeline payments"
+		},
+		{
+			"id": 1,
+			"name": "Cafes, bars & restaurant"
+		},
+		{
+			"id": 2,
+			"name": "Car service & goods"
+		},
+		{
+			"id": 3,
+			"name": "City transport"
+		},
+		{
+			"id": 4,
+			"name": "Clothes & Shoes"
+		},
+		{
+			"id": 4,
+			"name": "Culture & Art"
+		},
+		{
+			"id": 4,
+			"name": "Education",
+			"description": "Payment in schools, universities and colleges, as well as payment for specialized training: business, arts, sports, driving."
+		},
+		{
+			"id": 5,
+			"name": "Entertainment",
+			"description": "Payments at bowling alleys, amusement parks, circuses and other leisure facilities"
+		},
+		{
+			"id": 6,
+			"name": "Flowers",
+			"description": "Payment in flower shops, floristry salons and specialized gardening shops"
+		},
+		{
+			"id": 7,
+			"name": "Health"
+		},
+		{
+			"id": 8,
+			"name": "Home repair & decor"
+		},
+		{
+			"id": 9,
+			"name": "Music",
+			"description": "Payment at musical instrument shops"
+		},
+		{
+			"id": 10,
+			"name": "Sports goods",
+			"description": "Payment in specialized sports stores"
+		},
+		{
+			"id": 11,
+			"name": "Supermarkets"
+		},
+		{
+			"id": 12,
+			"name": "Taxi",
+			"description": "Payment to drivers and online taxi services. This doesn't include carsharing."
+		}
+	]
+}
